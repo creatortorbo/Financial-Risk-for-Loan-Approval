@@ -1,0 +1,2 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.Financial[[:space:]]Risk[[:space:]]for[[:space:]]Loan[[:space:]]Approval filter=lfs diff=lfs merge=lfs -text
